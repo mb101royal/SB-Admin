@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wJNMWdbSOO+LlYseM+4PcCw05np6zJqq/R/kUq43ol8KukUDw9C5D4XeNpApplaweZAM/BbfJ7t5S7Z/Rxz0CA==",
+  "dgSpecHash": "PRMq2UMMrM6FkE22Sa8vXHCBbO3OGNL8tNthQZs0Kv6wsYrj5VZNmYLt6hYXalhz/fWFbtX6GMZxVWNA9iK50w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\SB Admin.csproj",
+  "projectFilePath": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\SB Admin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Birinci novbe\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Birinci novbe\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zEZrzDzFcLcurWNSOP8dIPjhQ4PM1FytYMMuxqgVm7Y=",
+  "Hash": "f+r6xsTmDF1NXClyFz9JvN7eOQd4p7b+EZT3Zv/cgEg=",
   "Source": "SB Admin",
   "BasePath": "_content/SB Admin",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SB Admin\\wwwroot",
       "Source": "SB Admin",
-      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\",
       "BasePath": "_content/SB Admin",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\assets\\demo\\chart-area-demo.js",
+      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\assets\\demo\\chart-area-demo.js",
       "SourceId": "SB Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\",
       "BasePath": "_content/SB Admin",
       "RelativePath": "assets/demo/chart-area-demo.js",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\chart-area-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\assets\\demo\\chart-bar-demo.js",
+      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\assets\\demo\\chart-bar-demo.js",
       "SourceId": "SB Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\",
       "BasePath": "_content/SB Admin",
       "RelativePath": "assets/demo/chart-bar-demo.js",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\chart-bar-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\assets\\demo\\chart-pie-demo.js",
+      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\assets\\demo\\chart-pie-demo.js",
       "SourceId": "SB Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\",
       "BasePath": "_content/SB Admin",
       "RelativePath": "assets/demo/chart-pie-demo.js",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\chart-pie-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\assets\\demo\\datatables-demo.js",
+      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\assets\\demo\\datatables-demo.js",
       "SourceId": "SB Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\",
       "BasePath": "_content/SB Admin",
       "RelativePath": "assets/demo/datatables-demo.js",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\demo\\datatables-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\assets\\img\\error-404-monochrome.svg",
+      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\assets\\img\\error-404-monochrome.svg",
       "SourceId": "SB Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\",
       "BasePath": "_content/SB Admin",
       "RelativePath": "assets/img/error-404-monochrome.svg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\error-404-monochrome.svg"
     },
     {
-      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\css\\styles.css",
       "SourceId": "SB Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\",
       "BasePath": "_content/SB Admin",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\js\\datatables-simple-demo.js",
+      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\js\\datatables-simple-demo.js",
       "SourceId": "SB Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\",
       "BasePath": "_content/SB Admin",
       "RelativePath": "js/datatables-simple-demo.js",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\js\\datatables-simple-demo.js"
     },
     {
-      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\js\\scripts.js",
+      "Identity": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\js\\scripts.js",
       "SourceId": "SB Admin",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\wwwroot\\",
       "BasePath": "_content/SB Admin",
       "RelativePath": "js/scripts.js",
       "AssetKind": "All",

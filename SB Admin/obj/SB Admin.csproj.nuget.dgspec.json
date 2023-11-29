@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\SB Admin.csproj": {}
+    "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\SB Admin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\SB Admin.csproj": {
+    "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\SB Admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\SB Admin.csproj",
+        "projectUniqueName": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\SB Admin.csproj",
         "projectName": "SB Admin",
-        "projectPath": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\SB Admin.csproj",
+        "projectPath": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\SB Admin.csproj",
         "packagesPath": "C:\\Users\\Birinci novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\SB Admin\\obj\\",
+        "outputPath": "C:\\Users\\Birinci novbe\\source\\repos\\pushable\\New folder\\SB Admin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Birinci novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
